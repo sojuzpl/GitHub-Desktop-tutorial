@@ -1,1 +1,3 @@
-# Zmiana laTesta
+# Tutorial
+
+This is my tutorial repository.
